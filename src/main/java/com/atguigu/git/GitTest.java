@@ -15,7 +15,5 @@ public class GitTest {
         System.out.println("htllo pullllll git test2!!");
 
         System.out.println("htllo pullllll git 回滚滚滚滚");
-
-        System.out.println("htllo pullllll git 二次二次滚滚滚");
     }
 }
