@@ -13,5 +13,7 @@ public class GitTest {
         System.out.println("htllo pullllll test!");
         System.out.println("htllo pullllll mayuntest!");
         System.out.println("htllo pullllll git test2!!");
+
+        System.out.println("htllo pullllll git 回滚滚滚滚");
     }
 }
